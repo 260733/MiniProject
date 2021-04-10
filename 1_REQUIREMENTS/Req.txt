@@ -1,1 +1,23 @@
-Requirements
+# ""Requirements:""
+As there are various parameters which needs to be calculated such as: EMI, SIP, loan etc.
+Basically this project is all about financial calculator. With the help of C program
+
+## "" Calculating EMI""
+1. Principle
+2. Rate
+3. Time (in Yr)
+
+## "" Loan""
+1. Total Loan amount
+2. Annual rate of interest
+3. Time (in Yr)
+
+## "" SIP""
+1. Frequency of investment (Monthly/Yearly)
+2. Investment Amount
+3. Tenure( in Yrs.)
+
+### "" SOFTWARE REQUIREMENTS ""
+(i) VS Code
+(ii) Git
+
