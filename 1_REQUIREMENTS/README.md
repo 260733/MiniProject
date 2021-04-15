@@ -41,14 +41,4 @@ HR01	User input acc. to his requirement
 Low Level Requirements
 ID	Description	Implementation
 LR01	switch cases
-LRR02	
-LRR03	
-LRR04	
-LRR05	
-LRR06	
-LRR07	
-LRR08	
-LRR09	
-LRR010	
-LRR011	
 
