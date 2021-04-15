@@ -34,3 +34,26 @@ Anywhere where there is requirement of planning and investments.
 How
 This can be implemented ny asking choice from the user what options they want to calculate.
 
+
+High Level Requirements
+ID	Description	Implementation
+HR01	
+HR01	
+HR01	
+HR01	
+HR01
+HR01
+Low Level Requirements
+ID	Description	Implementation
+LR01	
+LRR02	
+LRR03	
+LRR04	
+LRR05	
+LRR06	
+LRR07	
+LRR08	
+LRR09	
+LRR010	
+LRR011	
+
