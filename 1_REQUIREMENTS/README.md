@@ -37,15 +37,10 @@ This can be implemented ny asking choice from the user what options they want to
 
 High Level Requirements
 ID	Description	Implementation
-HR01	
-HR01	
-HR01	
-HR01	
-HR01
-HR01
+HR01	User input acc. to his requirement
 Low Level Requirements
 ID	Description	Implementation
-LR01	
+LR01	switch cases
 LRR02	
 LRR03	
 LRR04	
